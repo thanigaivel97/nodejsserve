@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ec3e62c.chunk.css",
+    "main.js": "/static/js/main.02427a61.chunk.js",
+    "main.js.map": "/static/js/main.02427a61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53bdce6a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53bdce6a.js.map",
+    "static/js/2.bbdaa32f.chunk.js": "/static/js/2.bbdaa32f.chunk.js",
+    "static/js/2.bbdaa32f.chunk.js.map": "/static/js/2.bbdaa32f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c5e37c179dcadb11fa9d0adcb82a5323.js": "/precache-manifest.c5e37c179dcadb11fa9d0adcb82a5323.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2ec3e62c.chunk.css.map": "/static/css/main.2ec3e62c.chunk.css.map",
+    "static/js/2.bbdaa32f.chunk.js.LICENSE.txt": "/static/js/2.bbdaa32f.chunk.js.LICENSE.txt",
+    "static/media/Screenshot 2020-06-30 at 8.57.06 AM.png": "/static/media/Screenshot 2020-06-30 at 8.57.06 AM.a055ee9b.png",
+    "static/media/awards.png": "/static/media/awards.f25b8a55.png",
+    "static/media/awardstitlle.png": "/static/media/awardstitlle.67417d07.png",
+    "static/media/insta.png": "/static/media/insta.a7565003.png",
+    "static/media/logo.png": "/static/media/logo.d507f2d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53bdce6a.js",
+    "static/js/2.bbdaa32f.chunk.js",
+    "static/css/main.2ec3e62c.chunk.css",
+    "static/js/main.02427a61.chunk.js"
+  ]
+}
